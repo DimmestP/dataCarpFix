@@ -22,10 +22,10 @@ introduction to plotting. There is also a lesson on how to use databases from R 
 
 ## Topics
 
-* [Before we start](http://ewallace.github.io/R-genomics-variants/00-before-we-start.html)
-* [Introduction to R](http://ewallace.github.io/R-genomics-variants/01-intro-to-r.html)
-* [Data visualization with ggplot2](http://ewallace.github.io/R-genomics-variants/02-visualization-ggplot2.html)
-* [Starting with data](http://ewallace.github.io/R-genomics-variants/03-starting-with-data.html)
+* [Before we start](http://ewallace.github.io/R-genomics-variants/00-before-we-start.md)
+* [Introduction to R](http://ewallace.github.io/R-genomics-variants/01-intro-to-r.md)
+* [Data visualization with ggplot2](http://ewallace.github.io/R-genomics-variants/02-visualization-ggplot2.md)
+* [Starting with data](http://ewallace.github.io/R-genomics-variants/03-starting-with-data.md)
 
 ## Code handout
 
