@@ -2,6 +2,9 @@
 title: "Starting with data"
 author: "Data Carpentry contributors"
 minutes: 15
+output:  
+  html_document:
+    keep_md: true
 ---
 
 ```{r, echo=FALSE, purl=FALSE, message = FALSE}

@@ -2,6 +2,9 @@
 title: Data visualization with ggplot2
 author: Data Carpentry contributors
 minutes: 60
+output:  
+  html_document:
+    keep_md: true
 ---
 
 
