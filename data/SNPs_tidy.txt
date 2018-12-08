@@ -1,0 +1,6 @@
+QUAL	SAMPLE	POS	REF	ALT	MUT
+0	k	1	2	a	k
+0	i	3	4	a	m
+0	l	5	6	b	n
+0	l	7	8	b	f
+0	e	9	10	c	f
